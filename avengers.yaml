@@ -1,0 +1,7 @@
+train: /content/avengers/images/train
+val: /content/avengers/images/train
+
+# number of classes
+nc: 7
+# class names
+names: [ 'captain', 'ironman', 'hulk', 'torr', 'widow', 'hawkeye', 'loki' ]
