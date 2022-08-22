@@ -5,7 +5,14 @@ test:  # test images (optional)
 
 # Classes
 nc: 7  # number of classes
-names: ['captain', 'ironman', 'hulk', 'torr', 'widow', 'hawkeye', 'loki']  # class names
+names: # class names
+  0:'captain'
+  1:'ironman'
+  2:'hulk'
+  3:'torr'
+  4:'widow'
+  5:'hawkeye'
+  6:'loki'  
 
 
 # Download script/URL (optional)
