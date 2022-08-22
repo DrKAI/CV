@@ -9,4 +9,4 @@ names: ['cat', 'dog', 'person']  # class names
 
 
 # Download script/URL (optional)
-download: https://github.com/DrKAI/CV/raw/main/avengers.zip
+download: https://github.com/DrKAI/CV/raw/main/cat_dog_person.zip
