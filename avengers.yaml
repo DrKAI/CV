@@ -1,4 +1,4 @@
-path: /content/datasets/avengers  # dataset root dir
+path: ../datasets/avengers  # dataset root dir
 train: images/train  # train images (relative to 'path') 128 images
 val: images/train  # val images (relative to 'path') 128 images
 test:  # test images (optional)
